@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_voice_note_sample/constants.dart';
-import 'package:flutter_voice_note_sample/page.dart';
+import 'package:flutter_voice_note_sample/utils/constants.dart';
+import 'package:flutter_voice_note_sample/voice_note_page/page.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
